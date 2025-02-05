@@ -1,5 +1,6 @@
 # Darbe-FullPower
-<img src=https://github.com/user-attachments/assets/4e8b5fb9-bea6-466c-91eb-e142b85e5920 height="100px" width="100px"/>
+
+
 
 <img src=https://github.com/user-attachments/assets/7dda7277-5869-4dc4-979a-c59356362db0 height="200px" width="400px"/>
 <img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="200px" width="400px"/>
